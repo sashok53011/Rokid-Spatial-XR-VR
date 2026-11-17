@@ -1,0 +1,6 @@
+{
+  "name": "Rokid Spatial Desktop XR",
+  "description": "Пространственный рабочий стол для дополненной реальности и очков Rokid Max с привязкой окон к виртуальным стенам, жестовой навигацией, голосовым управлением и отладкой в реальном времени.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": []
+}
